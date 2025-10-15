@@ -1,0 +1,30 @@
+# requirements.txt
+# Core RAG & LLM components
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Document Loading & OCR
+pypdf
+pytesseract
+Pillow
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# Frontend UI
+streamlit
+
+# Testing & Evaluation
+pytest
+requests
