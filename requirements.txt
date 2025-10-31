@@ -3,7 +3,7 @@ streamlit
 langchain
 langchain-community
 langchain-core
-langdchain-google-genai
+langchain-google-genai
 google-generativeai
 chromadb
 sentence-transformers
