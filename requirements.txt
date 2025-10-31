@@ -1,4 +1,5 @@
 # requirements.txt
+
 # Core RAG & LLM components
 langchain
 langchain-community
